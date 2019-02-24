@@ -1,0 +1,54 @@
+    1  git --version
+    2  git --version
+    3  ls
+    4  cd Desktop
+    5  git clone https://github.com/ctxis/Furby.git
+    6  version --git
+    7  version --nano
+    8  python
+    9  nano
+   10  nano
+   11  ls
+   12  ls
+   13  nano ../../../../scripts/loop_cut_arg.sh 
+   14  bash ../../../../scripts/loop_cut_arg.sh 3 5 6 5 n
+   15  nano ../../../../scripts/loop_cut_arg.sh 
+   16  bash ../../../../scripts/loop_cut_arg.sh 3 5 6 n 5
+   17  nano ../../../../scripts/loop_cut_arg.sh 
+   18  bash ../../../../scripts/loop_cut_arg.sh 3 5 6 3 n
+   19  nano ../../../../scripts/loop_cut_arg.sh 
+   20  bash ../../../../scripts/loop_cut_arg.sh 3 5 6 3 n
+   21  cat ../../../../scripts/loop_conditional.sh
+   22  cat ../../../../scripts/loop_conditional1.sh
+   23  cat ../../.././scripts/loop_conditional1.sh
+   24  cat ../../.././scripts/loop_conditional1.sh for gapminderfile in [U-Z]*.txt
+   25  clear
+   26  nano ../../../../scripts/loop_conditional1.sh
+   27  nano ../../../../scripts/loop_files.sh
+   28  cat ../../../../scripts/loop_files_args.sh
+   29  bash ../../../../scripts/loop_files_args.sh
+   30  bash ../../../../scripts/loop_files_args.sh A*.txt
+   31  bash ../../../../scripts/loop_files_args.sh B*.txt
+   32  bash ../../../../scripts/loop_files_args.sh [I,J,K]*.txt
+   33  bash ../../../../scripts/loop_files_args.sh [I,J,K,U]*.txt
+   34  nano ../../../../scripts/loop_conditional1.sh 5 medium
+   35  nano ../../../../scripts/loop_conditional1.sh 5 medium
+   36  nano ../../../../scripts/loop_conditional1.sh 5 medium
+   37  cp ../../../../scripts/loop_conditional1_commented.sh ../../../../scripts/loop_shell_exercise.sh
+   38  ls
+   39  ls scripts
+   40  ls ../../../../scripts/loop_conditional1_commented.sh ../../../../scripts/loop_shell_exercise.sh
+   41  nano ../../../../scripts/loop_shell_exercise.sh 
+   42  nano ../../../../scripts/loop_shell_exercise.sh 
+   43  nano ../../../../scripts/loop_shell_exercise.sh 
+   44  ls Z*.txt
+   45  ls Z*.txt >Zfiles.out
+   46  ls Z*.txt
+   47  ls Z*.txt >Zfiles.out
+   48  car Zfiles.out
+   49  cat Zfiles.out
+   50  wc -l Zimbabwe.cc.txt 
+   51  wc -l Zimbabwe.cc.txt >Zimbabwe_linecount.out 
+   52  cat Zimbabwe_linecount.out 
+   53  history
+   54  history >history.out
